@@ -9,3 +9,8 @@
 .container p {
   margin: 30px auto;
 }
+
+.form-container {
+  background-color: whitesmoke;
+    padding: 20px 0;
+}
