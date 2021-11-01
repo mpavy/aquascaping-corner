@@ -31,16 +31,3 @@ html {
   scroll-behavior: smooth;
 }
 
-/*
-
-@media (max-width: 800px) {
-  .container {
-    width: 600px;
-  }
-}
-
-@media (max-width: 650px) {
-  .container {
-    width: 450px;
-  }
-}
